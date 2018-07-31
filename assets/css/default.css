@@ -1,0 +1,7 @@
+input[type="text"], select{
+		font-size: 12px;
+		font-family: monospace;
+		vertical-align:bottom;
+		padding: 0;
+		height:21px;
+		}

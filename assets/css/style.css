@@ -1,0 +1,12 @@
+label{font-weight:bold}
+
+input[type="text"], select{
+		border-style: inset;
+		border-width: 2px;
+		font-size: 12px;
+		font-family: monospace;
+		
+		padding: 1px 0px 1px 0px;
+		
+		}
+
